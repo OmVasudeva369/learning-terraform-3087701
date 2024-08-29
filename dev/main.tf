@@ -1,3 +1,3 @@
 module "dev"  {
-     source  =  "./.github/modules/dev"
+     source  =  "./modules/dev"
 }
